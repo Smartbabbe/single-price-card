@@ -1,0 +1,74 @@
+.overall {
+    color: rgb(73, 71, 71);
+    width: 20%;
+    border: 1px;
+    background-color: bisque;
+    border-radius: 20px;
+    margin: 3% auto;
+    padding: 20px;
+    font-family: 'GT Eesti Display',-apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+}
+
+.first {
+    font-size: 22px;
+    margin-bottom: 3em;
+}
+
+.plus {
+    font-weight: 600;
+}
+
+.second {
+    display: flex;
+}
+
+.second h1 {
+    font-size: 70px;
+    margin: 46.9px 20px 0 10px;
+}
+
+.second p {
+    font-size: 18px;
+    padding-top: 18%;
+    font-weight: 500;
+}
+
+.alone {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 4%;
+}
+
+button a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 550;
+    color: rgb(75, 70, 70);
+}
+
+button {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 20px 70px;
+    border: 1px solid black;
+    border-radius: 55px;
+    background-color: white;
+}
+
+.last {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 50%;
+
+}
+
+tr td:nth-of-type(1) {
+    font-weight: bolder;
+}
+
+tr td:nth-of-type(2) {
+    font-size: 18px;
+    padding-left: 15px;
+}
